@@ -1,0 +1,2 @@
+project(TokenFighter)
+subdirs(TokenCore)
